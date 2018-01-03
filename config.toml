@@ -1,4 +1,3 @@
-baseURL = "http://azurehugo.azurewebsites.net/"
 languageCode = "en-us"
 title = "Azure Hugo"
 theme = "nix"
